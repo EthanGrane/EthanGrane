@@ -31,6 +31,7 @@ https://assetstore.unity.com/publishers/43932
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [Gatto's Pizzeria](https://github.com/EthanGrane/ClickerFactorio) | Mi primer juego comercial en Steam es un juego COZY de cocina donde eres un gato pizzero que ha de gestionar un restaurante; el lanzamiento se prevé en inicios de 2027. | C# · GLSL · Unity |
 | [Factorio Clicker](https://github.com/EthanGrane/ClickerFactorio) | Es una reimaginacion de ```Cookie Clicker``` y ```Factorio``` donde puedes destruir recursos clicando, automatizarlo con taladros y craftear materiales para craftear mejores herramientas | C# · GLSL · Unity |
 | [Deterministic Factory Game](https://github.com/EthanGrane/DeterministicFactoryGame) | Prototipo inspirado en Factorio y Bloons TD 6: recolecta recursos, fabrica defensas y aguanta oleadas de enemigos. Arquitectura orientada a datos con Pathfinding A*, multithreading y preparada para multijugador | C# · HLSL · Unity |
 | [Manage It](https://github.com/EthanGrane/Manage-It-Productivity-Time-Tracker-for-Unity) | Gestor de tareas y tiempo para Unity: medidor de tiempo, tablero estilo Trello, visualizador de commits en línea de tiempo | C# · Unity |
