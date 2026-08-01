@@ -22,6 +22,7 @@
 | [Steam Market Analyzer](https://github.com/EthanGrane/Steam-Market-Analyzer) | App móvil para analizar el mercado de Steam: ventas estimadas, géneros y juegos similares | React Native · Expo · Steam API |
 | [Red Social WhateverNever](https://github.com/EthanGrane/Proyecto-2-Whatevernever) | Proyecto de final de curso, es una red social donde publicas Post en cualquier punto de un mapa: creacion de usuarios, añadir amigos, publicar imagenes y comentarios, likes y dislikes, grupos de amigos  | Vue · Laravel · Tailwind · MapboxGL |
 | [WPlace Pixelart Generator](https://github.com/EthanGrane/WPlacePixelartGenerator) | Convierte una imagen en un pixelart convirtiendo el tamaño y la paleta de colores  | React · Tailwind |
+| [Free Games for PC](https://freegamespc.vercel.app/) | Consulta todos los videojuegos que tengan una oferta del 100% en todas las tiendas digitales  | NextJs · React · Tailwind |
 
 ---
 
