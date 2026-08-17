@@ -42,3 +42,9 @@ https://assetstore.unity.com/publishers/43932
 | [Manage It](https://github.com/EthanGrane/Manage-It-Productivity-Time-Tracker-for-Unity) | Gestor de tareas y tiempo para Unity: medidor de tiempo, tablero estilo Trello, visualizador de commits en línea de tiempo | C# · Unity |
 | [Voronoi Texture Generator](https://github.com/EthanGrane/VoronoiTextureGenerator_ComputeShader) | Es una herramienta integrada en unity para generar mapas de rudio de tipo Voronoi:  image tiling, custom saturation/power, inverted values, 3 voronoi modes (Floor, Greyscale, Diamonds) | C# · GLSL · Unity |
 | [Digital Logic Simulator](https://github.com/EthanGrane/Digital-Logic-Simulator) | Simulador de lógica digital donde puedes construir cualquier tipo de circuito lógico | C# · WinForms |
+
+### 📋 Proyectos Electronica
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [7-Segment Clock](https://github.com/EthanGrane/Arduino-7-Segment-Clock) | Reloj DIY con Arduino mostrado en un display de 4 dígitos y 7 segmentos. | C++ · Arduino |
